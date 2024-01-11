@@ -1,5 +1,5 @@
 {
-  "name": "@lottiefiles/svelte-lottie-player",
+  "name": "@vessel-co/svelte-lottie-player",
   "version": "0.3.0",
   "svelte": "src/components/index.js",
   "exports": {
