@@ -1,6 +1,6 @@
 {
   "name": "@vessel-co/svelte-lottie-player",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "svelte": "src/components/index.js",
   "exports": {
     ".": {
